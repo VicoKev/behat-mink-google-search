@@ -1,4 +1,11 @@
 {
+    "name": "behat-mink-google-search",
+    "description": "A minimal project demonstrating automated testing of Google search using Behat and Mink.",
+    "authors": [
+        {
+            "name": "VicoKev"
+        }
+    ],
     "require-dev": {
         "behat/behat": "^3.13"
     }
